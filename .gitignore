@@ -1,0 +1,5 @@
+**/node_modules
+.vscode
+frontend/package-lock.*
+products/package-lock.*
+shopping-cart/package-lock.*
